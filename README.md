@@ -1,0 +1,1 @@
+Translate ALS letters in real-time video.
