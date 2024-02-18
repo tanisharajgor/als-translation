@@ -27,17 +27,18 @@ For model training, I use the large-scale [Word-Level American Sign Language (WL
 ### Examples
 | original_video | key_point_mapping_prediction |
 |----------------|------------------------------|
-| <img src="selected_gifs/65011.gif" width="500"> | <img src="selected_gifs/65011%20-%20keypoints.gif" width="500"> |
-| <img src="selected_gifs/65014.gif" width="500"> | <img src="selected_gifs/65014%20-%20keypoints.gif" width="500"> |
-| <img src="selected_gifs/65229.gif" width="500"> | <img src="selected_gifs/65229%20-%20keypoints.gif" width="500"> |
-| <img src="selected_gifs/65374.gif" width="500"> | <img src="selected_gifs/65374%20-%20keypoints.gif" width="500"> |
-| <img src="selected_gifs/65415.gif" width="500"> | <img src="selected_gifs/65415%20-%20keypoints.gif" width="500"> |
-| <img src="selected_gifs/65438.gif" width="500"> | <img src="selected_gifs/65438%20-%20keypoints.gif" width="500"> |
-| <img src="selected_gifs/65748.gif" width="500"> | <img src="selected_gifs/65748%20-%20keypoints.gif" width="500"> |
-| <img src="selected_gifs/66123.gif" width="500"> | <img src="selected_gifs/66123%20-%20keypoints.gif" width="500"> |
-| <img src="selected_gifs/66283.gif" width="500"> | <img src="selected_gifs/66283%20-%20keypoints.gif" width="500"> |
-| <img src="selected_gifs/66331.gif" width="500"> | <img src="selected_gifs/66331%20-%20keypoints.gif" width="500"> |
-| <img src="selected_gifs/66487.gif" width="500"> | <img src="selected_gifs/66487%20-%20keypoints.gif" width="500"> |
+| <img src="selected_gifs/65011.gif" width="400"> | <img src="selected_gifs/65011%20-%20keypoints.gif" width="400"> |
+| <img src="selected_gifs/65014.gif" width="400"> | <img src="selected_gifs/65014%20-%20keypoints.gif" width="400"> |
+| <img src="selected_gifs/65229.gif" width="400"> | <img src="selected_gifs/65229%20-%20keypoints.gif" width="400"> |
+| <img src="selected_gifs/65374.gif" width="400"> | <img src="selected_gifs/65374%20-%20keypoints.gif" width="400"> |
+| <img src="selected_gifs/65415.gif" width="400"> | <img src="selected_gifs/65415%20-%20keypoints.gif" width="400"> |
+| <img src="selected_gifs/65438.gif" width="400"> | <img src="selected_gifs/65438%20-%20keypoints.gif" width="400"> |
+| <img src="selected_gifs/65748.gif" width="400"> | <img src="selected_gifs/65748%20-%20keypoints.gif" width="400"> |
+| <img src="selected_gifs/66123.gif" width="400"> | <img src="selected_gifs/66123%20-%20keypoints.gif" width="400"> |
+| <img src="selected_gifs/66283.gif" width="400"> | <img src="selected_gifs/66283%20-%20keypoints.gif" width="400"> |
+| <img src="selected_gifs/66331.gif" width="400"> | <img src="selected_gifs/66331%20-%20keypoints.gif" width="400"> |
+| <img src="selected_gifs/66487.gif" width="400"> | <img src="selected_gifs/66487%20-%20keypoints.gif" width="400"> |
+
 
 
 
