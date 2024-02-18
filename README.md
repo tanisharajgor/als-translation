@@ -23,3 +23,12 @@ For model training, I use the large-scale [Word-Level American Sign Language (WL
 2. Transfer learning on WLASL - for each video, detect the facial and hand key-points, and then predict the word being signed.
 
 *We primarily focus on analyzing still signing as opposed to action-based signing, which also takes into account facial expressions and semantics.
+
+### Examples
+| original_video | key_point_mapping_prediction |
+|----------------|------------------------------|
+| [Video 1](link_to_video_1) | [Prediction 1](link_to_prediction_1) |
+| [Video 2](link_to_video_2) | [Prediction 2](link_to_prediction_2) |
+| [Video 3](link_to_video_3) | [Prediction 3](link_to_prediction_3) |
+
+
