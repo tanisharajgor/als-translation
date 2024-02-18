@@ -8,7 +8,6 @@
     <img src="https://github.com/tanisharajgor/als-translation/assets/54627422/c732fb25-9bc9-4a7e-aee1-4af4a381d80d" alt="e-labelled" style="display:inline; margin:0px; width:110px; height:110px;">
 </div>
 
-
 ## Gesture: Real-time ALS Translation & Speech
 
 The World Health Organization (WHO) reports that more than 7% of the word’s populations has hearing impairments. An estimated 900 million people will experience hearing loss in 2050. What if there was a method to facilitate communication between sign and non-sign speakers?
@@ -50,9 +49,28 @@ For model training, I use the large-scale [Word-Level American Sign Language (WL
 | <img src="selected_gifs/66487.gif" width="400"> | <img src="selected_gifs/66487%20-%20keypoints.gif" width="400"> |
 
 
+### Credits
 
+<div style="text-align: center;">
+    <img src="https://github.com/tanisharajgor/als-translation/assets/54627422/e9099c9e-70af-4448-9f75-b2c13233ebac" alt="b-labelled" style="display:inline; margin:0px; width:110px; height:110px;">
+    <img src="https://github.com/tanisharajgor/als-translation/assets/54627422/45265f29-3fac-41c2-9d3d-9461c8fe1f39" alt="l-labelled" style="display:inline; margin:0px; width:110px; height:110px;">
+    <img src="https://github.com/tanisharajgor/als-translation/assets/54627422/3decbadd-08d4-4f0b-9a9b-e10a9c8ba0e0" alt="u-labelled" style="display:inline; margin:0px; width:110px; height:110px;">
+    <img src="https://github.com/tanisharajgor/als-translation/assets/54627422/51de4e2d-83d0-4c14-9207-8791f3eeeab4" alt="e-labelled" style="display:inline; margin:0px; width:110px; height:110px;">
+</div>
 
+<div style="text-align: center;">
+    <img src="https://github.com/tanisharajgor/als-translation/assets/54627422/76c4914d-22b4-40f9-b30e-9e7935e43908" alt="o-labelled" style="display:inline; margin:0px; width:110px; height:110px;">
+    <img src="https://github.com/tanisharajgor/als-translation/assets/54627422/939b5068-c0ce-4eaf-9257-6c6a37a1297f" alt="c-labelled" style="display:inline; margin:0px; width:110px; height:110px;">
+    <img src="https://github.com/tanisharajgor/als-translation/assets/54627422/44e0364a-ae17-4ede-b29b-f9d3834aad6c" alt="e-labelled" style="display:inline; margin:0px; width:110px; height:110px;">
+    <img src="https://github.com/tanisharajgor/als-translation/assets/54627422/7245b298-089b-449f-a346-c4320f107657" alt="a-labelled" style="display:inline; margin:0px; width:110px; height:110px;">
+    <img src="https://github.com/tanisharajgor/als-translation/assets/54627422/982599c0-f1af-4114-9b29-1ec6599cb0ec" alt="n-labelled" style="display:inline; margin:0px; width:110px; height:110px;">
+</div>
 
+<img src="https://github.com/tanisharajgor/als-translation/assets/54627422/3abcb4b2-641b-47cb-90c5-b60eb3bea9e2" alt="1_7c8I7De10T06KSKz2I5FfQ" style="width: 575px;">
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 
 
 
