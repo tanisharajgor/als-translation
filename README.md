@@ -27,9 +27,19 @@ For model training, I use the large-scale [Word-Level American Sign Language (WL
 ### Examples
 | original_video | key_point_mapping_prediction |
 |----------------|------------------------------|
-| [1](./selected_gifs/65011.jpg) | [2](https://github.com/tanisharajgor/als-translation/blob/main/selected_gifs/65011%20-%20keypoints.gif) |
-| [Video 2](link_to_video_2) | [Prediction 2](link_to_prediction_2) |
-| [Video 3](link_to_video_3) | [Prediction 3](link_to_prediction_3) |
+| <img src="selected_gifs/65011.gif" width="500"> | <img src="selected_gifs/65011%20-%20keypoints.gif" width="500"> |
+| <img src="selected_gifs/65014.gif" width="500"> | <img src="selected_gifs/65014%20-%20keypoints.gif" width="500"> |
+| <img src="selected_gifs/65229.gif" width="500"> | <img src="selected_gifs/65229%20-%20keypoints.gif" width="500"> |
+| <img src="selected_gifs/65374.gif" width="500"> | <img src="selected_gifs/65374%20-%20keypoints.gif" width="500"> |
+| <img src="selected_gifs/65415.gif" width="500"> | <img src="selected_gifs/65415%20-%20keypoints.gif" width="500"> |
+| <img src="selected_gifs/65438.gif" width="500"> | <img src="selected_gifs/65438%20-%20keypoints.gif" width="500"> |
+| <img src="selected_gifs/65748.gif" width="500"> | <img src="selected_gifs/65748%20-%20keypoints.gif" width="500"> |
+| <img src="selected_gifs/66123.gif" width="500"> | <img src="selected_gifs/66123%20-%20keypoints.gif" width="500"> |
+| <img src="selected_gifs/66283.gif" width="500"> | <img src="selected_gifs/66283%20-%20keypoints.gif" width="500"> |
+| <img src="selected_gifs/66331.gif" width="500"> | <img src="selected_gifs/66331%20-%20keypoints.gif" width="500"> |
+| <img src="selected_gifs/66487.gif" width="500"> | <img src="selected_gifs/66487%20-%20keypoints.gif" width="500"> |
+
+
 
 
 
