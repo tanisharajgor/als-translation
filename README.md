@@ -27,8 +27,11 @@ For model training, I use the large-scale [Word-Level American Sign Language (WL
 ### Examples
 | original_video | key_point_mapping_prediction |
 |----------------|------------------------------|
-| [Video 1](link_to_video_1) | [Prediction 1](link_to_prediction_1) |
+| [1](./selected_gifs/65011.jpg) | [2](https://github.com/tanisharajgor/als-translation/blob/main/selected_gifs/65011%20-%20keypoints.gif) |
 | [Video 2](link_to_video_2) | [Prediction 2](link_to_prediction_2) |
 | [Video 3](link_to_video_3) | [Prediction 3](link_to_prediction_3) |
+
+
+
 
 
