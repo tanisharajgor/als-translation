@@ -17,9 +17,7 @@ With the recent advances in Mixed Reality (XR), such as the Meta Quest and Apple
 
 ### Methods
 
-For model training, I use the large-scale Word-Level American Sign Language (WLASL) video dataset, containing more than 2000 words performed by over 100 signers. To my knowledge, it is by far the largest public ASL dataset to facilitate word-level sign recognition research.
-
-https://github.com/dxli94/WLASL/
+For model training, I use the large-scale [Word-Level American Sign Language (WLASL)](https://github.com/dxli94/WLASL/) video dataset, containing more than 2000 words performed by over 100 signers. To my knowledge, it is by far the largest public ASL dataset to facilitate word-level sign recognition research.
 
 1. Sign language detection on a smaller scale - capture an image and predict what letter is being signed.
 2. Transfer learning on WLASL - for each video, detect the facial and hand key-points, and then predict the word being signed.
