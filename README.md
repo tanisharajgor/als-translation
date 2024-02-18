@@ -1,3 +1,10 @@
+<img src="https://github.com/tanisharajgor/als-translation/assets/54627422/6c21e9da-0ef5-4d7e-8197-85aa59d9e2dd" alt="g-labelled" style="display:inline; margin:0px; width:125px; height:125px;">
+<img src="https://github.com/tanisharajgor/als-translation/assets/54627422/c732fb25-9bc9-4a7e-aee1-4af4a381d80d" alt="e-labelled" style="display:inline; margin:0px; width:125px; height:125px;">
+<img src="https://github.com/tanisharajgor/als-translation/assets/54627422/31da3f7a-181a-4707-9dd3-a3e4f204888b" alt="s-labelled" style="display:inline; margin:0px; width:125px; height:125px;">
+<img src="https://github.com/tanisharajgor/als-translation/assets/54627422/c56cab93-8e76-46cd-8165-f840e811166d" alt="t-labelled" style="display:inline; margin:0px; width:125px; height:125px;">
+<img src="https://github.com/tanisharajgor/als-translation/assets/54627422/2def20f3-e6ff-4023-95b1-731f43cbd034" alt="u-labelled" style="display:inline; margin:0px; width:125px; height:125px;">
+<img src="https://github.com/tanisharajgor/als-translation/assets/54627422/6195edce-acde-432a-b9ec-c4774fe4aa20" alt="r-labelled" style="display:inline; margin:0px; width:125px; height:125px;">
+<img src="https://github.com/tanisharajgor/als-translation/assets/54627422/c732fb25-9bc9-4a7e-aee1-4af4a381d80d" alt="e-labelled" style="display:inline; margin:0px; width:125px; height:125px;">
 
 ## Gesture: Real-time ALS Translation & Speech
 
