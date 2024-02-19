@@ -68,7 +68,7 @@ For model training, I use the large-scale [Word-Level American Sign Language (WL
 
 <img src="https://github.com/tanisharajgor/als-translation/assets/54627422/3abcb4b2-641b-47cb-90c5-b60eb3bea9e2" alt="1_7c8I7De10T06KSKz2I5FfQ" style="width: 575px;">
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
